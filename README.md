@@ -67,3 +67,5 @@ Conclusion:
 This real-time collaborative text editor project demonstrates how frontend and backend technologies can be combined to build a live-syncing application. It is a great learning example for understanding how WebSockets work, how to use React with external libraries like Quill, and how to handle event-driven communication between clients and servers. The final product is a lightweight but powerful editor that can be extended into a full-fledged collaborative writing tool with features like storage, access control, and version history.
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/1d1fb795-6da9-4167-88c6-620272b0d51d)
